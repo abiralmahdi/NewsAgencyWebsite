@@ -1,0 +1,31 @@
+=== The steps and algorithm of this NewsPortal Website: ===
+
+// 1. Home Page
+// 2. Contact Page
+// 3. News Categories Page
+// 4. Individual News Page
+// 5. Old News ==> a) News By Date
+                b) News By Category
+
+
+
+<!--Accounts Section-->
+
+6. Login Page ==> a) Admin Dashboard
+                  b) User Profile
+                  c) Journalist Profile
+7. Admin Functionalities ==> a) Add, Edit, Remove Journalist
+                             b) Remove, Edit Users
+                             c) Add, Remove, Edit News
+8. Journalist Functionalities ==> a) Add, Remove, Edit News
+9. User Functionalities ==> a) Favourite News
+                            b) Comment News 
+                            c) Like News
+
+
+
+
+10. Search Functionality
+11. Create an API
+
+
